@@ -17,7 +17,7 @@ Instead of Jenkins checking GitHub every 5 mins (Poll SCM),
 GitHub Repo ---> Webhook URL ---> Jenkins Job
 (push) (POST) (build)
 
-text
+ 
 
 ---
 
